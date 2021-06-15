@@ -1,0 +1,7 @@
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\bin\Debug\SkiMatrix.exe.config
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\bin\Debug\SkiMatrix.exe
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\bin\Debug\SkiMatrix.pdb
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\obj\Debug\SkiMatrix.csprojAssemblyReference.cache
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\obj\Debug\SkiMatrix.csproj.CoreCompileInputs.cache
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\obj\Debug\SkiMatrix.exe
+C:\Users\omoutperiferia16\source\repos\SkiMatrix\SkiMatrix\obj\Debug\SkiMatrix.pdb
